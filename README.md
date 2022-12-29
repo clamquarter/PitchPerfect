@@ -1,4 +1,5 @@
 # PitchPerfect
+<h3>Summary</h3>
 PitchPerfect is an app project from the Udacity iOS Developer Nanodegree Program. It's a fun app that allows the user to record a voice memo and change their voice on playback.
 
 <h3>What I Learned</h3>
